@@ -216,7 +216,7 @@ Cong Gao - [cnggao@gmail.com](mailto:cnggao@gmail.com)
 
 ## Changelog
 
-### v1.0.0 (2025-07-03)
+### v1.0.3 (2025-07-03)
 - Initial release
 - Basic day calculation functionality
 - Command-line interface

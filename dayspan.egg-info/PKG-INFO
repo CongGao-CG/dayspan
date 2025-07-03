@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: dayspan
-Version: 1.0.2
+Version: 1.0.3
 Summary: Calculate days between two dates (inclusive)
 Home-page: https://github.com/yourusername/dayspan
 Author: Cong Gao
@@ -245,7 +245,7 @@ Cong Gao - [cnggao@gmail.com](mailto:cnggao@gmail.com)
 
 ## Changelog
 
-### v1.0.0 (2025-07-03)
+### v1.0.3 (2025-07-03)
 - Initial release
 - Basic day calculation functionality
 - Command-line interface
