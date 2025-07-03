@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="dayspan",
-    version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    version="1.0.2",
+    author="Cong Gao",
+    author_email="cnggao@gmail.com",
     description="Calculate days between two dates (inclusive)",
     long_description=long_description,
     long_description_content_type="text/markdown",
