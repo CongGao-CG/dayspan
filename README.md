@@ -17,9 +17,3 @@ cd dayspan
 pip install .
 ```
 
-### Commit and push the changes:
-```bash
-git add README.md
-git commit -m "Update README with installation instructions"
-git push
-```
