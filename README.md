@@ -3,7 +3,6 @@
 [![PyPI version](https://badge.fury.io/py/dayspan.svg)](https://badge.fury.io/py/dayspan)
 [![Python Support](https://img.shields.io/pypi/pyversions/dayspan.svg)](https://pypi.org/project/dayspan/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Downloads](https://pepy.tech/badge/dayspan)](https://pepy.tech/project/dayspan)
 
 A simple Python package to calculate the number of days between two dates (inclusive).
 
@@ -208,7 +207,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Cong Gao - [cnggao@gmail.com](mailto:cnggao@gmail.com)
 
 ## Acknowledgments
 
@@ -217,7 +216,7 @@ Your Name - [your.email@example.com](mailto:your.email@example.com)
 
 ## Changelog
 
-### v1.0.0 (2024-XX-XX)
+### v1.0.0 (2025-07-03)
 - Initial release
 - Basic day calculation functionality
 - Command-line interface
@@ -226,4 +225,4 @@ Your Name - [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
-If you find this tool useful, please consider giving it a star on [GitHub](https://github.com/YOUR_USERNAME/dayspan)!
+If you find this tool useful, please consider giving it a star on [GitHub](https://github.com/CongGao-CG/dayspan)!
