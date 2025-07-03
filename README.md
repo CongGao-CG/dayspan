@@ -1,5 +1,25 @@
 ## Installation
 
-### From PyPI (coming soon)
+### From PyPI
 ```bash
 pip install dayspan
+```
+
+### From GitHub
+```bash
+pip install git+https://github.com/YOUR_USERNAME/dayspan.git
+```
+
+### From source
+```bash
+git clone https://github.com/YOUR_USERNAME/dayspan.git
+cd dayspan
+pip install .
+```
+
+### Commit and push the changes:
+```bash
+git add README.md
+git commit -m "Update README with installation instructions"
+git push
+```
