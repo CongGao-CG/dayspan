@@ -216,6 +216,9 @@ Cong Gao - [cnggao@gmail.com](mailto:cnggao@gmail.com)
 
 ## Changelog
 
+### v1.0.5 (2025-08-12)
+- update the pip badge
+
 ### v1.0.4 (2025-08-12)
 - builded by .toml instead of setup.py
 

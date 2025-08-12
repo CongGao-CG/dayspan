@@ -2,6 +2,6 @@
 
 from .calculator import calculate_days, parse_date
 
-__version__ = '1.0.4'
+__version__ = '1.0.5'
 __author__ = 'Cong Gao'
 __all__ = ['calculate_days', 'parse_date']
