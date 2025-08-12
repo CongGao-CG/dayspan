@@ -33,7 +33,7 @@ def main():
     parser.add_argument(
         '--version',
         action='version',
-        version='%(prog)s 1.0.0'
+        version='%(prog)s 1.0.6'
     )
     
     args = parser.parse_args()

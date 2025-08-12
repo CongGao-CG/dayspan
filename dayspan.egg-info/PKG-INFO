@@ -1,7 +1,7 @@
 Metadata-Version: 2.4
 Name: dayspan
-Version: 1.0.5
-Summary: A Python package to count days between two dates (YYYYMMDD)
+Version: 1.0.6
+Summary: A simple tool to count days between two dates (YYYYMMDD).
 Author-email: Cong Gao <cnggao@gmail.com>
 Maintainer-email: Cong Gao <cnggao@gmail.com>
 License-Expression: MIT
@@ -203,10 +203,10 @@ dayspan 20250132 20251231
 ### Running Tests
 
 ```bash
-# Basic tests (no dependencies)
+# Option A
 python test_dayspan.py
 
-# With pytest (if installed)
+# Option B
 pytest test_dayspan.py
 ```
 

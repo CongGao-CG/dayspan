@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Core module for calculating days between dates."""
+"""Core module for counting days between two dates."""
 
 from datetime import datetime
 
