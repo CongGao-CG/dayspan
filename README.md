@@ -174,10 +174,10 @@ dayspan 20250132 20251231
 ### Running Tests
 
 ```bash
-# Basic tests (no dependencies)
+# Option A
 python test_dayspan.py
 
-# With pytest (if installed)
+# Option B
 pytest test_dayspan.py
 ```
 
