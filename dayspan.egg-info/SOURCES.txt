@@ -1,6 +1,6 @@
 LICENSE
 README.md
-setup.py
+pyproject.toml
 dayspan/__init__.py
 dayspan/calculator.py
 dayspan/cli.py

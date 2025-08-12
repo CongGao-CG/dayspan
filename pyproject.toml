@@ -1,0 +1,54 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dayspan"
+version = "1.0.4"
+description = "A Python package to count days between two dates (YYYYMMDD)"
+readme = "README.md"
+requires-python = ">=3.6"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [
+    {name = "Cong Gao", email = "cnggao@gmail.com"},
+]
+maintainers = [
+    {name = "Cong Gao", email = "cnggao@gmail.com"},
+]
+keywords = ["date", "time", "span", "datetime", "period"]
+classifiers = [
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+
+dependencies = [
+]
+
+[project.urls]
+Homepage = "https://github.com/CongGao-CG/dayspan"
+Repository = "https://github.com/CongGao-CG/dayspan.git"
+Issues = "https://github.com/CongGao-CG/dayspan/issues"
+Documentation = "https://github.com/CongGao-CG/dayspan#readme"
+
+[project.scripts]
+dayspan = "dayspan.cli:main"
+
+[tool.setuptools]
+packages = ["dayspan"]
+
+
+[tool.black]
+line-length = 88
+target-version = ["py36", "py37", "py38", "py39", "py310", "py311", "py312", "py313", "py314"]
+
