@@ -1,6 +1,6 @@
 # DaySpan
 
-[![PyPI](https://img.shields.io/pypi/v/dayspan?color=green&cacheSeconds=300)](https://pypi.org/project/dayspan/)
+[![PyPI](https://img.shields.io/pypi/v/dayspan?color=%2366F542&cacheSeconds=300)](https://pypi.org/project/dayspan/)
 [![Python Support](https://img.shields.io/pypi/pyversions/dayspan.svg)](https://pypi.org/project/dayspan/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
