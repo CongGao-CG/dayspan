@@ -216,6 +216,9 @@ Cong Gao - [cnggao@gmail.com](mailto:cnggao@gmail.com)
 
 ## Changelog
 
+### v.1.0.6 (2025-08-13)
+- debug the version in command-line
+
 ### v1.0.5 (2025-08-12)
 - update the pip badge
 
