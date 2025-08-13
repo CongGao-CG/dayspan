@@ -166,7 +166,7 @@ dayspan 20250132 20251231
 
 ## Requirements
 
-- Python 3.6 or higher
+- Python 3.8 or higher
 - No external dependencies
 
 ## Development
