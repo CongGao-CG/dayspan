@@ -216,6 +216,9 @@ Cong Gao - [cnggao@gmail.com](mailto:cnggao@gmail.com)
 
 ## Changelog
 
+### v.1.0.7 (2025-08-13)
+- version controled unified in .toml
+
 ### v.1.0.6 (2025-08-13)
 - debug the version in command-line
 

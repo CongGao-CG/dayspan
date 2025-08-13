@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: dayspan
-Version: 1.0.6
+Version: 1.0.7b0
 Summary: A simple tool to count days between two dates (YYYYMMDD).
 Author-email: Cong Gao <cnggao@gmail.com>
 Maintainer-email: Cong Gao <cnggao@gmail.com>
@@ -12,8 +12,6 @@ Project-URL: Documentation, https://github.com/CongGao-CG/dayspan#readme
 Keywords: date,time,span,datetime,period
 Classifier: Operating System :: OS Independent
 Classifier: Programming Language :: Python :: 3
-Classifier: Programming Language :: Python :: 3.6
-Classifier: Programming Language :: Python :: 3.7
 Classifier: Programming Language :: Python :: 3.8
 Classifier: Programming Language :: Python :: 3.9
 Classifier: Programming Language :: Python :: 3.10
@@ -244,6 +242,12 @@ Cong Gao - [cnggao@gmail.com](mailto:cnggao@gmail.com)
 - Inspired by the need for a simple, reliable day calculation tool
 
 ## Changelog
+
+### v.1.0.7 (2025-08-13)
+- version controled unified in .toml
+
+### v.1.0.6 (2025-08-13)
+- debug the version in command-line
 
 ### v1.0.5 (2025-08-12)
 - update the pip badge

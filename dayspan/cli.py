@@ -4,6 +4,7 @@
 import sys
 import argparse
 from .calculator import calculate_days
+from dayspan import __version__
 
 
 def main():
@@ -33,9 +34,9 @@ def main():
     parser.add_argument(
         '--version',
         action='version',
-        version='%(prog)s 1.0.6'
+        version=f'%(prog)s {__version__}'
     )
-    
+
     args = parser.parse_args()
     
     try:

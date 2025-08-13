@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dayspan"
-version = "1.0.6"
+version = "1.0.7b"
 description = "A simple tool to count days between two dates (YYYYMMDD)."
 readme = "README.md"
 requires-python = ">=3.6"
@@ -20,8 +20,6 @@ keywords = ["date", "time", "span", "datetime", "period"]
 classifiers = [
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.6",
-    "Programming Language :: Python :: 3.7",
     "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
@@ -50,5 +48,5 @@ packages = ["dayspan"]
 
 [tool.black]
 line-length = 88
-target-version = ["py36", "py37", "py38", "py39", "py310", "py311", "py312", "py313", "py314"]
+target-version = ["py38", "py39", "py310", "py311", "py312", "py313", "py314"]
 
