@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+dayspan/__init__.py
+dayspan/calculator.py
+dayspan/cli.py
+dayspan.egg-info/PKG-INFO
+dayspan.egg-info/SOURCES.txt
+dayspan.egg-info/dependency_links.txt
+dayspan.egg-info/entry_points.txt
+dayspan.egg-info/top_level.txt

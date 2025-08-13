@@ -1,3 +1,30 @@
+Metadata-Version: 2.4
+Name: dayspan
+Version: 1.0.8
+Summary: A simple tool to count days between two dates (YYYYMMDD).
+Author-email: Cong Gao <cnggao@gmail.com>
+Maintainer-email: Cong Gao <cnggao@gmail.com>
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/CongGao-CG/dayspan
+Project-URL: Repository, https://github.com/CongGao-CG/dayspan.git
+Project-URL: Issues, https://github.com/CongGao-CG/dayspan/issues
+Project-URL: Documentation, https://github.com/CongGao-CG/dayspan#readme
+Keywords: date,time,span,datetime,period
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3.13
+Classifier: Programming Language :: Python :: 3.14
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
 # DaySpan
 
 [![PyPI](https://img.shields.io/pypi/v/dayspan?color=%232EA51B&cacheSeconds=300)](https://pypi.org/project/dayspan/)

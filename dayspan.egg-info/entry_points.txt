@@ -1,0 +1,2 @@
+[console_scripts]
+dayspan = dayspan.cli:main
