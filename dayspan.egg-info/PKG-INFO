@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: dayspan
-Version: 1.0.7b0
+Version: 1.0.7
 Summary: A simple tool to count days between two dates (YYYYMMDD).
 Author-email: Cong Gao <cnggao@gmail.com>
 Maintainer-email: Cong Gao <cnggao@gmail.com>
