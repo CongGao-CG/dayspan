@@ -166,7 +166,7 @@ dayspan 20250132 20251231
 
 ## Requirements
 
-- Python 3.8 or higher
+- Python 3.9 or higher
 - No external dependencies
 
 ## Development
@@ -215,6 +215,10 @@ Cong Gao - [cnggao@gmail.com](mailto:cnggao@gmail.com)
 - Inspired by the need for a simple, reliable day calculation tool
 
 ## Changelog
+
+### v1.0.10c (2025-08-15)
+- exclude python 3.8 (the package does work for 
+python 3.8 but the .toml does not work for python 3.8)
 
 ### v1.0.10b (2025-08-15)
 - include python version test
