@@ -216,6 +216,9 @@ Cong Gao - [cnggao@gmail.com](mailto:cnggao@gmail.com)
 
 ## Changelog
 
+### v1.0.10a1 (2025-08-15)
+- v1.0.10d is not valid
+
 ### v1.0.10d (2025-08-15)
 - mkdir tests and mv the test into tests/
 
