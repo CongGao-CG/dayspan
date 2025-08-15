@@ -216,6 +216,9 @@ Cong Gao - [cnggao@gmail.com](mailto:cnggao@gmail.com)
 
 ## Changelog
 
+### v1.0.10d (2025-08-15)
+- mkdir tests and mv the test into tests/
+
 ### v1.0.10c (2025-08-15)
 - exclude python 3.8 (the package does work for 
 python 3.8 but the .toml does not work for python 3.8)
