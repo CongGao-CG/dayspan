@@ -216,6 +216,9 @@ Cong Gao - [cnggao@gmail.com](mailto:cnggao@gmail.com)
 
 ## Changelog
 
+### v1.0.10b (2025-08-15)
+- include python version test
+
 ### v1.0.10a (2025-08-15)
 - keep github repo clean
 
