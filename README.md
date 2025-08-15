@@ -216,6 +216,9 @@ Cong Gao - [cnggao@gmail.com](mailto:cnggao@gmail.com)
 
 ## Changelog
 
+### v1.0.11 (2025-08-15)
+- should be connected with zenodo
+
 ### v1.0.10 (2025-08-15)
 - release
 
