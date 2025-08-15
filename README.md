@@ -216,6 +216,9 @@ Cong Gao - [cnggao@gmail.com](mailto:cnggao@gmail.com)
 
 ## Changelog
 
+### v1.0.9 (2025-08-15)
+- published automatically by github action
+
 ### v1.0.8 (2025-08-13)
 - update the python requirement
 
